@@ -20,17 +20,6 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-Name: Rohit Sharma
-Education: B.E. in Computer Engineering
-Institute: Army Institute of Technology, Pune
-CGPA: 9.455 (till 2nd year)
-Core Strengths: DSA, OOP, DBMS
-Interests: Backend Systems, Automation, Applied ML
-```
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Sharma3843&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="320" />
-
 - 🎓 Bachelor of Engineering in **Computer Engineering**
 - 🏫 **Army Institute of Technology**, Pune
 - 📊 CGPA: **9.455** (till 2nd year)
