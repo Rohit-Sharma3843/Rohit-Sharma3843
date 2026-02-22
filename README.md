@@ -1,35 +1,50 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=280&section=header&text=Rohit%20Sharma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20•%20Systems%20•%20Automation&descSize=20&descAlignY=55" width="100%" />
+<div align="center">
 
-<p align="center">
-  <a href="mailto:tihorsharma7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Rohit-Sharma3843">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/flanker-h/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rohit%20Sharma&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+
+<!-- Typing SVG -->
+<a href="https://github.com/tihorsharma7">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Computer+Engineering+%40+AIT+Pune%F0%9F%9A%80;IoT+%26+Automation%F0%9F%A4%96;Building+Real-World+Systems+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
 </a>
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F78E69&center=true&vCenter=true&width=600&lines=MERN+Stack;NextJS;Data+Science;DSA;AI+Enthusiast" alt="Typing SVG" />
-</p>
+<br/>
 
----
+<!-- Profile Badges -->
+[![CGPA](https://img.shields.io/badge/CGPA-9.455%2F10-blueviolet?style=for-the-badge&logo=academia&logoColor=white)](https://aitpune.edu.in)
+[![Intern](https://img.shields.io/badge/ML%20Intern-NITTTR%20Bhopal-orange?style=for-the-badge&logo=python&logoColor=white)](#experience)
+[![Open to Work](https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)](#contact)
 
-## 🧑‍💻 About Me
+<br/>
 
-- 🎓 Bachelor of Engineering in **Computer Engineering**
-- 🏫 **Army Institute of Technology**, Pune
-- 📊 CGPA: **9.455** (till 2nd year)
-- 🧠 Strong foundation in **DSA, OOP, DBMS**
-- 🛠️ Interest areas: **Backend Systems, Automation, Applied ML**
-- 🧭 Career aligned with **technical officer responsibilities**
+<!-- Social Links -->
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohit-Sharma3843)
+[![Email](https://img.shields.io/badge/Email-tihorsharma7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tihorsharma7@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91--9103867592-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919103867592)
 
-<br clear="right"/>
+</div>
 
 ---
+
+## 🧑‍💻 **About Me**
+
+<table align="center">
+  <tr>
+    <td>
+      <ul>
+        <li>🎓 <strong>Bachelor of Engineering</strong> in Computer Engineering</li>
+        <li>🏫 <strong>Army Institute of Technology</strong>, Pune</li>
+        <li>📊 <strong>CGPA: 9.455</strong> (till 2nd year)</li>
+        <li>🧠 <strong>Strong foundation</strong> in DSA, OOP, DBMS</li>
+        <li>🛠️ <strong>Interest areas:</strong> Backend Systems, Automation, Applied ML</li>
+        <li>🧭 <strong>Career aligned</strong> with technical officer responsibilities</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250px" alt="coding gif" />
+    </td>
+  </tr>
+</table>
 
 ## 🧰 Tech Stack
 
@@ -53,7 +68,7 @@
 <summary><b>⚙️ Backend & Databases</b></summary>
 <br>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,supabase&theme=dark" />
 </p>
 </details>
 
@@ -61,9 +76,18 @@
 <summary><b>🔧 Tools & Platforms</b></summary>
 <br>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,firebase,vscode,windows,ubuntu&theme=dark" />
 </p>
 </details>
+
+<details open>
+<summary><b>🔧 Others</b></summary>
+<br>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,raspberrypi,postman&theme=dark" />
+</p>
+</details>
+
 
 ---
 
