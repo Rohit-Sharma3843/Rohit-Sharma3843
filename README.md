@@ -41,7 +41,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250px" alt="coding gif" />
+      <img src="https://imgproc.airliners.net/photos/airliners/8/3/8/1872838.jpg?v=v40" width="250px" alt="coding gif" />
     </td>
   </tr>
 </table>
