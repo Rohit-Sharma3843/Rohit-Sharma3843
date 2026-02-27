@@ -123,6 +123,8 @@ RFID + Fingerprint verification with live logging
 
 Hourly charts, 7-day forecast, geolocation support
 
+[🔗 Live Demo](https://weather-puce-six.vercel.app/)
+
 </td>
 <td width="50%">
 
@@ -131,6 +133,8 @@ Hourly charts, 7-day forecast, geolocation support
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
 Interactive game with shuffle logic & replay system
+
+[🔗 Live Demo](https://main-projects-liart.vercel.app/)
 
 </td>
 </tr>
@@ -143,6 +147,8 @@ Interactive game with shuffle logic & replay system
 
 Cloudinary image pipeline, role-based access
 
+[🔗 Live Demo](https://blogify-one-theta.vercel.app/user/signin)
+
 </td>
 <td width="50%">
 
@@ -152,11 +158,14 @@ Cloudinary image pipeline, role-based access
 
 Solved real deployment and SSR challenges
 
+[🔗 Live Demo](https://resolissue.vercel.app/)
+
 </td>
 </tr>
 </table>
 
 ---
+
 
 ## 💼 Experience
 
