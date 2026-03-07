@@ -211,7 +211,6 @@ Solved real deployment and SSR challenges
 <p align="center">
   <img src="https://img.shields.io/badge/👥_Member-Robotics_Club_(2024--25)-2c5364?style=flat-square" />
   <img src="https://img.shields.io/badge/🧘_Member-Spiritual_Club_(2023--24)-2c5364?style=flat-square" />
-  <img src="https://img.shields.io/badge/🎓_Class_Monitor-(2020--21)-2c5364?style=flat-square" />
 </p>
 
 ---
