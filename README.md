@@ -76,7 +76,7 @@
 <summary><b>🔧 Tools & Platforms</b></summary>
 <br>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,firebase,vscode,windows,ubuntu&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,firebase,vscode,windows,ubuntu,kali,arch&theme=dark" />
 </p>
 </details>
 
