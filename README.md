@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile Badges -->
-[![CGPA](https://img.shields.io/badge/CGPA-9.455%2F10-blueviolet?style=for-the-badge&logo=academia&logoColor=white)](https://aitpune.edu.in)
+[![CGPA](https://img.shields.io/badge/CGPA-9.478%2F10-blueviolet?style=for-the-badge&logo=academia&logoColor=white)](https://aitpune.edu.in)
 [![Intern](https://img.shields.io/badge/ML%20Intern-NITTTR%20Bhopal-orange?style=for-the-badge&logo=python&logoColor=white)](#experience)
 [![Open to Work](https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=for-the-badge&logo=handshake&logoColor=white)](#contact)
 
@@ -60,7 +60,7 @@
 <summary><b>🎨 Frontend</b></summary>
 <br>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,typescript,nextjs&theme=dark" />
 </p>
 </details>
 
@@ -68,7 +68,7 @@
 <summary><b>⚙️ Backend & Databases</b></summary>
 <br>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,supabase,prisma&theme=dark" />
 </p>
 </details>
 
@@ -76,7 +76,7 @@
 <summary><b>🔧 Tools & Platforms</b></summary>
 <br>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,firebase,vscode,windows,ubuntu,kali,arch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,firebase,vscode,windows,ubuntu,kali,arch,vim,github,yarn,npm&theme=dark" />
 </p>
 </details>
 
