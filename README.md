@@ -20,7 +20,6 @@
 <!-- Social Links -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohit-Sharma3843)
 [![Email](https://img.shields.io/badge/Email-tihorsharma7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tihorsharma7@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91--9103867592-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919103867592)
 
 </div>
 
