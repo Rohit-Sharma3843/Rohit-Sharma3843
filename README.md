@@ -33,7 +33,7 @@
       <ul>
         <li>🎓 <strong>Bachelor of Engineering</strong> in Computer Engineering</li>
         <li>🏫 <strong>Army Institute of Technology</strong>, Pune</li>
-        <li>📊 <strong>CGPA: 9.455</strong> (till 2nd year)</li>
+        <li>📊 <strong>CGPA: 9.478</strong> (till 2nd year)</li>
         <li>🧠 <strong>Strong foundation</strong> in DSA, OOP, DBMS</li>
         <li>🛠️ <strong>Interest areas:</strong> Backend Systems, Automation, Applied ML</li>
         <li>🧭 <strong>Career aligned</strong> with technical officer responsibilities</li>
@@ -153,11 +153,11 @@ Cloudinary image pipeline, role-based access
 
 ### 🏛️ ResolIssue Civic Platform
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" /> <img src="https://img.shields.io/badge/Kinde%20Auth-000000?style=flat-square&logo=auth0&logoColor=white" />
 
-Solved real deployment and SSR challenges
+Full-stack civic issue reporting & tracking platform — citizens report local issues (electrical, water, cleanliness, transportation) with geolocation and images; admins triage and update status. Built with Next.js App Router, Drizzle ORM, and Kinde authentication. Solved real deployment and SSR challenges.
 
-[🔗 Live Demo](https://resolissue.vercel.app/)
+[🔗 Live Demo](https://resolissue2.vercel.app/)
 
 </td>
 </tr>
