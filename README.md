@@ -36,7 +36,6 @@
         <li>📊 <strong>CGPA: 9.478</strong> (till 2nd year)</li>
         <li>🧠 <strong>Strong foundation</strong> in DSA, OOP, DBMS</li>
         <li>🛠️ <strong>Interest areas:</strong> Backend Systems, Automation, Applied ML</li>
-        <li>🧭 <strong>Career aligned</strong> with technical officer responsibilities</li>
       </ul>
     </td>
     <td>
