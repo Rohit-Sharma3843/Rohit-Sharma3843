@@ -33,7 +33,7 @@
       <ul>
         <li>🎓 <strong>Bachelor of Engineering</strong> in Computer Engineering</li>
         <li>🏫 <strong>Army Institute of Technology</strong>, Pune</li>
-        <li>📊 <strong>CGPA: 9.478</strong> (till 2nd year)</li>
+        <li>📊 <strong>CGPA: 9.493</strong> (till 3rd year)</li>
         <li>🧠 <strong>Strong foundation</strong> in DSA, OOP, DBMS</li>
         <li>🛠️ <strong>Interest areas:</strong> Backend Systems, Automation, Applied ML</li>
       </ul>
